@@ -1,0 +1,36 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1593507652939'); /* IE9 */
+  src: url('iconfont.eot?t=1593507652939#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQgAAsAAAAACGgAAAPRAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqEJINiATYCJAMQCwoABCAFhG0HSBtUB1GUDkqB7MdBbsa60JxGJRW32F6mzv9zPHzt93ru7r6fDaECBejIAsvweAQVHRvVGl1jKmTH17MRf/7f07+NBiiTnBFpg2VFctJ0YNoHfVr6BNCnsuX//udyfHdlbaD5gRIKbazlc1J01AswGlsDGmtTQIGWUCCcA/HWZR4m0GVSFMVOSVUjMFcYowLxxLEkME+ZlRp6qLpWycIivkLV9JmuAeCL//34DxLCnKTJjKMOb4opkPfL+iWZ5basM8vk8ZzglpGxBCjEXan7AhwGl8C6lO6INUBVJcZqcXtJtqeke1FXU63vHy8RLYa6B8SVUOaXtS2ONW4wCmhIpEnwQhZUdOEb4BcwSOM6J1kzNsHa08Y60trC3Ha0+eTDlgcPmu/da7x/v2nOw9ym+W6RC5U5xcMyIQQw8nBiC+t5AJFdrBa6wUYrm/23faD5JE4pO1suUFBBqzkAskNH1OhmNR+MWj94ENDNO7cYt5bPXu/StXpzqM38o4EtayOWpNjOLvqx3f3s042N9+4JFx4ErH1Yev6+/6p7zesOycfnnDQeITnGJnn7Bhm7LLdtm4waBNvwsps3l8FLYVcJswJstBQuGoj6tW173ObBJZf4SWjzZmjSFMAwCUMAJcwKcDu41rZeUU6SZYpXvVgV1msi0OtmmLvQaG5ACZlA0WwMpsQwkxnU5ol3rsIIUy8G4olt24vAWvnccYeQW/4+Abb51jaRpogzV3Zvd1fK+f8+/HZvtV32SrS12FN4KV07c/66EEScTVhecQmC7Bbn55cUI8heSdJ+wS4BxEvo/7u/mM/ZmSWf8DlhO/AGoP0I3p6dASD/gLbrYTl/heWfPsj7QR3SY5f1w9zqqot++uNFflZbLiB/AH9O0lryiyUtc4oqMyylyHJbrKUXZ1DelbLLtPFjowx5MYZ2tHU6oRqNIekwAVk1hRTiEjS6rUBLtQ5dFpUu7zZMBIvSiQXTCIQBOyHp8x2yAdeRQnwOjTEfoGUgYOhyHk4bdpsJzrJQpEmJpnDlMM6peB1j2STLILOeZg0aUkzKfGYzLeo5Dx4fE5eNlNI6Whxjin6ATZAkBmdEXouXkONojYbHBZHvp1VSTJ8kCRmxsUzZi2JUvBZY2iaikSQ0Ck5pGI6jwtNh3MISy9zn69FYBhoksQZX4W1GE+lx7ePixYhrgZSqda1w1/KM3gBWAomEgWOIeFq4EuKkacwgDyeU9+tHU5HE6OvhF2SIpfIxbdUx82u1T7gKuhiblEiRo0Sj64bUsRTZz7k7YEMcyWs5c5Y3DBpUfTQAAAAA') format('woff2'),
+  url('iconfont.woff?t=1593507652939') format('woff'),
+  url('iconfont.ttf?t=1593507652939') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1593507652939#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fangdajing:before {
+  content: "\e617";
+  font-size: 20px;
+  color: #616161;
+  font-weight: bolder;
+}
+
+.icon-xiaomi:before {
+  font-size: 35px;
+  color: #ffffff;
+  content: "\e661";
+}
+
+.icon-gouwuche:before {
+  content: "\e60c";
+  font-size: 14px;
+  color: #b0b0b0;
+}
+
