@@ -1,0 +1,300 @@
+#head{
+    width: 100%;
+    height: 100px;
+}
+.headers{
+    width: 1220px;
+    height: 100px;
+    margin: 0 auto;
+}
+.headers>span:nth-of-type(1){
+    display: inline-block;
+    height: 55px;
+    width: 55px;
+    background-color: #ff6700;
+    text-align: center;
+    line-height: 55px;
+    margin-top: 26px;
+
+}
+.headers>span:nth-of-type(2){
+    font-size: 26px;
+    color: #424242;
+    display: inline-block;
+    margin-left: 45px;
+}
+.headers>span:nth-of-type(3){
+    margin-left: 908px;
+}
+.headers>span:nth-of-type(3)>a,span:nth-of-type(5)>a{
+    font-size: 11px;
+    color: #757575;
+}
+.headers>span:nth-of-type(3)>a:hover,.headers>span:nth-of-type(5)>a:hover{
+    color: #ff6700;
+}
+#content{
+    width: 100%;
+    
+    background-color: #f5f5f5;
+}
+.contents{
+    width: 1220px;
+    
+    
+    margin: 0 auto;
+    overflow: hidden;
+}
+.trade{
+    height: 273px;
+    padding-left: 558px;
+    margin: 65px 0 130px;
+    background: url(../img/3.png) no-repeat 124px 0;
+    color: #b0b0b0;
+    display: none;
+}
+.trade>h2{
+    margin: 70px 0 0 0;
+    font-size: 36px;
+}
+.trade>p{
+    margin: 0;
+    font-size: 20px;
+    color: #b0b0b0;
+    margin-top: 16px;
+    margin-bottom: 26px;
+}
+.trade>span{
+    display: inline-block;
+    width: 158px;
+    height: 38px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #b0b0b0;
+    font-size: 14px;
+    line-height: 38px;
+    text-align: center;
+    color: #b0b0b0;
+    cursor: pointer;
+    transition: all .4s;
+}
+.trade>span:nth-of-type(1){
+    background-color: #ff6700;
+    border: none;
+
+}
+.trade>span:nth-of-type(1)>a{
+    color: #ffffff;
+}
+.trade>span:nth-of-type(2){
+    border-color: #ff6700;
+
+}
+.trade>span:nth-of-type(2)>a{
+    color: #ff6700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    width: 1226px;
+    margin: 0 auto;
+}
+.footer-service {
+    width: 100%;
+    height: 80px;
+}
+
+.footer-service ul {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: #616161;
+    border-bottom: 1px #e0e0e0 solid;
+}
+
+.footer-service ul li {
+    width: 244px;
+    border-right: 1px #e0e0e0 solid;
+    text-align: center;
+}
+
+.footer .footer-service ul li:last-child {
+    border-right: none;
+}
+
+
+.footer-helf {
+    width: 100%;
+    height: 190px;
+    margin-top: 40px;
+}
+
+.helf-left {
+    display: flex;
+    height: 100%;
+}
+
+.helf-left .helf1 {
+    width: 160px;
+    height: 100%;
+}
+
+.helf-left .helf1 h4 {
+    font-size: 14px;
+    color: #424242;
+}
+
+.helf-left .helf1 ul {
+    margin-top: 24px;
+    color: #757575;
+    font-size: 14px;
+}
+
+.helf-left .helf1 ul li {
+    margin-top: 12px;
+}
+
+
+.helf-right {
+    width: 252px;
+    border-left: 1px #e0e0e0 solid;
+    margin-left: 962px;
+    margin-top: -191px;
+}
+
+.helf-right .helf2 {
+    border-left: 1px #e0e0e0 solid;
+    width: 100%;
+}
+
+.helf-right .helf2 h4 {
+    color: #ff6752;
+    margin-left: 56px;
+    font-size: 18px;
+}
+
+.helf-right .helf2 p {
+    color: #616161;
+    font-size: 14px;
+    margin-left: 56px;
+    margin-top: 12px;
+}
+
+.helf-right .helf2 .kefu {
+    width: 120px;
+    height: 30px;
+    border: 1px #ff6752 solid;
+    margin-left: 66px;
+    line-height: 30px;
+    text-align: center;
+    color: #ff6752;
+    margin-top: 12px;
+}
+
+.helf-right .helf2 .atten {
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+.footer-infor {
+    height: 50px;
+    width: 100%;
+    
+}
+
+.footer-infor ul {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.footer-infor ul li {
+    border-right: 1px #757575 solid;
+    font-size: 14px;
+    color: #757575;
+    padding: 0 8px;
+}
+
+.footer-infor ul li:last-child {
+    border-right: none;
+}
+
+.footer-infor ul li:first-child {
+    padding-left: 0;
+}
+
+.footer-papers p {
+    color: #757575;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.papers-img {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.papers-img div:first-child {
+    width: 169px;
+    height: 57px;
+}
+
+.papers-img div:nth-of-type(2),
+.papers-img div:nth-of-type(3),
+.papers-img div:nth-of-type(4) {
+    width: 85px;
+    height: 28px;
+    margin-top: 25px;
+}
+.icon-xiaomi:before {
+    content: "\e661";
+    font-size: 30px;
+    color: #ffffff;
+  }
