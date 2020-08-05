@@ -1,0 +1,5 @@
+https://www.mi.com/  主页
+https://account.xiaomi.com 登录
+https://cn.account.xiaomi.com 注册  只用写用户名和密码
+https://www.mi.com/buy/cart 购物车
+https://www.mi.com/buy/detail?product_id=10000213 详情页1
